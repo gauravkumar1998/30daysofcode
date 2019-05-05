@@ -1,2 +1,5 @@
 # 30daysofcode
-30 days of code using python
+
+In this Repository, I'm going to do 30 days coding challenge with python only.
+
+This repository includes maximum concepts of PYTHON.
